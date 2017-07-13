@@ -1,0 +1,27 @@
+{
+    "name": "art-tracker",
+    "version": "0.0.1",
+    "description": "Web app to track the position of art for AR",
+    "main": "src/index.js",
+    "scripts": {
+        "build": "",
+        "dev": "",
+        "test": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FourDizzle/art-ar-tracker"
+    },
+    "keywords": [
+        "AR",
+        "art"
+    ],
+    "contributors": [
+        "Nick Cassiani <ndcassiani@gmail.com>",
+        "Alex Stock <alexandrastock@ymail.com>"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/FourDizzle/art-ar-tracker",
+    "devDependencies": {
+    }
+}
